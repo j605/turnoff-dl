@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 import feedparser
 from lxml import etree
 import urllib3
